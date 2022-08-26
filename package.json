@@ -1,16 +1,16 @@
 {
-  "name": "@byintera/prettier-config",
+  "name": "@1pedro/prettier-config",
   "version": "0.1.0",
   "description": "Shared prettier config",
-  "author": "Intera <tech@byintera.com>",
+  "author": "Pedro <pedrojefferson.dev@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/by-intera/prettier-config.git"
+    "url": "git+https://github.com/1pedro/prettier-config.git"
   },
   "bugs": {
-    "url": "https://github.com/by-intera/prettier-config/issues"
+    "url": "https://github.com/1pedro/prettier-config/issues"
   },
-  "homepage": "https://github.com/by-intera/prettier-config",
+  "homepage": "https://github.com/1pedro/prettier-config",
   "main": "prettier.json",
   "files": [
     "prettier.json"

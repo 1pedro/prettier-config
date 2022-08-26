@@ -1,15 +1,12 @@
-# @byintera/prettier-config
+# @1pedro/prettier-config
 
-[![npm version](https://badge.fury.io/js/%40byintera%2Fprettier-config.svg)](https://badge.fury.io/js/%40byintera%2Fprettier-config)
-
-Intera's shared [Prettier](https://prettier.io) configuration.
 
 ## Usage
 
 **Install**:
 
 ```sh
-$ npm install -D @byintera/prettier-config
+$ npm install -D @1pedro/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -17,7 +14,7 @@ $ npm install -D @byintera/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@byintera/prettier-config"
+  "prettier": "@1pedro/prettier-config"
 }
 ```
 
